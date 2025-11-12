@@ -44,7 +44,7 @@ See the power of GitStats in action:
 
 | Setup & Configuration | Widget Overview | Theme Selection | Dark Mode Widget | Key Stats |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Setup screen](https://github.com/agamkoradiya/GitStats-Widget-App/tree/main/gitstats%20screenshot_2/1.png) | ![Widget overview](screenshot_2/2.png) | ![Theme selection](screenshot_2/3.png) | ![Dark mode widget](screenshot_2/4.png) | ![Key stats screen](screenshot_2/5.png) |
+| ![Setup screen](https://github.com/agamkoradiya/GitStats-Widget-App/blob/main/1.png) | ![Widget overview](https://github.com/agamkoradiya/GitStats-Widget-App/blob/main/2.png) | ![Theme selection](https://github.com/agamkoradiya/GitStats-Widget-App/blob/main/3.png) | ![Dark mode widget](https://github.com/agamkoradiya/GitStats-Widget-App/blob/main/4.png) | ![Key stats screen](https://github.com/agamkoradiya/GitStats-Widget-App/blob/main/5.png) |
 
 ---
 
